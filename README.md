@@ -1,4 +1,8 @@
-# cursoGitHub
-### Samuel Alves Calheiros dos Santos
-### Sistemas para Internet - UNCISAL
-### Maceió AL
+# Olá, me  chamo Samuel
+
+### Tenho 18 anos e atualmente estou aprendendo programação. 
+#### Curso
+- Sistemas para Internet - UNCISAL
+
+#### Cidade
+- Maceió AL
